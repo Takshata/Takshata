@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Takshata
-- 👀 I’m interested in ...CODINGGGGGG
-- 🌱 I’m currently learning ...PYYYTTTTHHHHOOONNNNNN
-- 💞️ I’m looking to collaborate on ...thetechie07@gmail.com
+- 👀 I’m interested in Machiene learning and AI
+- 🌱 I’m currently learning Data Science and AI
+- 💞️ I’m looking to collaborate on .akshtuppad@gmail.com
 - 📫 How to reach me ...
 
 <!---
