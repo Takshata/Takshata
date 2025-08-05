@@ -6,7 +6,7 @@
                 Mega Guided Projects 
                 Intermediate Python
 
-- Reach out to me on my linkedin:www.linkedin.com/in/akshata-tuppad-057386168 and drop a Hi to me
+- Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=akshata-tuppad-057386168 and drop a Hi to me
 
 
 <!---
